@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Decalotype-Light
+font link: https://hanken.co/product/decalotype/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+
+
+icon designer: Katrine Kolström
+icon designer link: /katrine2
+        
+{"bg":"#002C73","icon":"#FFD009","font":"#ffffff","slogan":"#ffffff"}
+      
